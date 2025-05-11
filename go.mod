@@ -1,4 +1,4 @@
-module github.com/riking/AutoDelete
+module https://github.com/serkantolga/DiscordMessageDeleter
 
 go 1.13
 
